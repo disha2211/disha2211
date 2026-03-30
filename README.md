@@ -1,9 +1,10 @@
 # Hi, I'm Disha 👋
 ### Computer Science Student | Exploring AI, ML & Computer Vision
 
-# 💫 About Me:
+# About Me:
 Computer Science student currently exploring AI, machine learning, and computer vision through projects and experiments.<br><br>
-# Fun Facts(lol):
+
+# 🤫Fun Facts:
 I’m someone who likes exploring different ideas and figuring things out in my own way. I may look lazy most of the time, but when I decide to do something, I usually end up finishing it in one intense burst.<br>Outside of tech, I enjoy music, novels, dancing, drawing, and sometimes just escaping into my own thoughts.<br>I make a lot of plans that never happen, but somehow I still end up doing things when I really decide to.
 
 

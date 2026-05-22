@@ -1,9 +1,6 @@
 # Hi, I'm Disha 👋
 ### Computer Science Student | Exploring AI, ML & Computer Vision
 
-# About Me:
-Computer Science student building projects in AI, machine learning, backend systems, and computer vision.<br><br>
-
 # Beyond Tech:
 I enjoy exploring different ideas and figuring things out in my own way.<br>
 Most of my best work happens in random bursts of motivation and late-night focus sessions.<br>
